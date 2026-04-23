@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👨‍💻 Rafael Fuzari
 
-<!--
-**rafaelfuzari/rafaelfuzari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em Backend, atualmente aprendendo em C# e ASP.NET.
 
-Here are some ideas to get you started:
+Tenho experiência prévia com desenvolvimento de jogos utilizando Unity e C#, incluindo um projeto publicado na Steam.
+Atualmente estou direcionando minha carreira para desenvolvimento backend, aplicando conceitos de APIs REST, autenticação e arquitetura de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+- C#
+- ASP.NET Core
+- Entity Framework
+- MySQL
+- JavaScript
+- HTML & CSS
+
+## 📌 Projeto em destaque
+
+### 🔐 Sistema CRUD com autenticação JWT
+
+Desenvolvi uma aplicação web completa com arquitetura cliente-servidor.
+
+- API REST em ASP.NET Core
+- CRUD completo de usuários
+- Autenticação com JWT
+- Integração com MySQL
+- Consumo da API com JavaScript
+- Controle de sessão com token
+
+🔗 Link do projeto: https://github.com/rafaelfuzari/CRUD
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/rafael-fuzari-5506161b2/
+- Email: rafaelfuzari@gmail.com
