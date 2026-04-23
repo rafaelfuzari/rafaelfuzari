@@ -18,7 +18,7 @@ Atualmente estou direcionando minha carreira para desenvolvimento backend, aplic
 
 ### 🔐 Sistema CRUD com autenticação JWT
 
-Desenvolvi uma aplicação web completa com arquitetura cliente-servidor.
+Desenvolvi uma aplicação web com arquitetura cliente-servidor.
 
 - API REST em ASP.NET Core
 - CRUD completo de usuários
