@@ -18,7 +18,7 @@ Atualmente estou direcionando minha carreira para desenvolvimento backend, aplic
 
 ### 🔐 Sistema CRUD com autenticação JWT
 
-Desenvolvi uma aplicação web com intuito de demonstrar habilidades em programação utilizando C#
+Desenvolvi uma aplicação web com intuito de demonstrar habilidades em programação utilizando ASP.NET
 
 - API REST em ASP.NET Core
 - CRUD completo de usuários
