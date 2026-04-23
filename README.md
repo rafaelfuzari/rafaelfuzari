@@ -1,6 +1,6 @@
 ## 👨‍💻 Rafael Fuzari
 
-Desenvolvedor focado em Backend, atualmente aprendendo em C# e ASP.NET.
+Desenvolvedor focado em Backend, atualmente aprendendo C# e ASP.NET.
 
 Tenho experiência prévia com desenvolvimento de jogos utilizando Unity e C#, incluindo um projeto publicado na Steam.
 Atualmente estou direcionando minha carreira para desenvolvimento backend, aplicando conceitos de APIs REST, autenticação e arquitetura de sistemas.
